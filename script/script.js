@@ -1,5 +1,5 @@
 // Récupération des données JSON depuis le fichier
-fetch('../python/results.json')
+fetch('./python/results.json')
   .then(response => response.json())
   .then(data => {
     // Affichage du nombre total de champions
