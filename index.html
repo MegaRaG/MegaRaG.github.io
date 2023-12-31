@@ -1,18 +1,39 @@
 <!DOCTYPE html>
-<html id="backgroundme"  lang="en">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link href="./dist/output.css" rel="stylesheet">
-  <title>OmerovicAhmed</title>
+<meta charset="UTF-8">
+<title>Champions Info</title>
+<link rel="stylesheet" href="css/main.css">
 </head>
-
 <body>
-  <main>
-      <header>
-        <div><h1 class="text-3xl font-bold underline">Ahmed OMEROVIC</h1>
-      </header>
-    <img class="max-w-full h-auto" src="img/5g.jpg" alt="LuffyImage">
-  </main>
+
+<!-- Div pour les deux premières div alignées horizontalement -->
+<div class="info-container">
+    <div class="champion-info">
+        <span>Total champions: </span><span id="totalChampionsValue">166</span>
+    </div>
+    <div class="champion-info">
+        <span>Champions without Legendary skin: </span><span id="without1820RPValue">98</span>
+    </div>
+</div>
+
+<div class="container">
+    <!-- Liste des skins 1820 RP -->
+    <div class="list-container">
+        <div class="list-header">List of Legendary Skins:</div>
+        <ul id="skinsList">
+            <!-- Vous pouvez injecter les skins 1820 RP ici si vous le souhaitez -->
+        </ul>
+    </div>
+    <!-- Liste des champions sans 1820 RP -->
+    <div class="list-container">
+        <div class="list-header">List of Champions without Legendary skin:</div>
+        <ul id="championsList">
+            <!-- Vous pouvez injecter les champions sans skins 1820 RP ici si vous le souhaitez -->
+        </ul>
+    </div>
+</div>
+
+<script src="./script/script.js"></script>
 </body>
 </html>

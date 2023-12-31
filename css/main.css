@@ -1,0 +1,84 @@
+body {
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f4f4;
+  overflow-y: auto;
+}
+
+.info-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.champion-info {
+  width: 200px;
+  height: 100px;
+  background-color: #3498db;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 15px;
+  padding: 10px;
+  transition: transform 0.3s ease;
+}
+
+.champion-info span {
+  font-size: 0.8em;
+  font-weight: normal;
+}
+
+.champion-info span:nth-child(2) {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.champion-info:hover {
+  transform: scale(1.1);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.list-container {
+  flex: 1;
+  background-color: #e74c3c;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.list-header {
+  margin-top: 30px;
+  font-size: 1em; /* Augmentez ou diminuez cette valeur selon vos préférences */
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  max-height: 50vh; /* Hauteur maximale pour la liste avec barre de défilement */
+  overflow-y: auto; /* Barre de défilement verticale si le contenu dépasse la hauteur */
+}
+
+.important-champion {
+  font-weight: bold;           /* Gras pour attirer l'attention */
+  color: #FF5733;              /* Couleur spécifique, par exemple, orange */
+  background-color: #F9E79F;   /* Fond légèrement coloré */
+  padding: 5px 10px;           /* Espacement autour du texte */
+  border-radius: 5px;          /* Coins arrondis pour un look agréable */
+  margin: 2px 0;               /* Petit espacement entre les éléments de la liste */
+}
