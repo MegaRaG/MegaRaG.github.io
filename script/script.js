@@ -1,45 +1,38 @@
 // Récupération des données JSON depuis le fichier
-fetch('./python/results.json')
+fetch('./python/champions_info.json')
   .then(response => response.json())
   .then(data => {
     // Affichage du nombre total de champions
     const totalChampionsElement = document.getElementById('totalChampionsValue');
-    if (totalChampionsElement) {
-      totalChampionsElement.textContent = data.total_champions;
-    } else {
-      console.error("Element with ID 'totalChampionsValue' not found!");
-    }
+    totalChampionsElement.textContent = data[0].total_champions;
 
     // Affichage du nombre de champions sans skins légendaires
     const without1820RPElement = document.getElementById('without1820RPValue');
-    if (without1820RPElement) {
-      without1820RPElement.textContent = data.champions_without_1820_rp;
-    } else {
-      console.error("Element with ID 'without1820RPValue' not found!");
-    }
+    without1820RPElement.textContent = data[0].champions_without_1820_rp;
 
-    // Affichage de la liste des champions sans skins 1820 RP
-    const championsList = document.getElementById('championsList');
-    championsList.innerHTML = ''; // Vidage de la liste
-    data.champions_without_1820_rp_list.forEach(champion => {
-      const listItem = document.createElement('li');
-      listItem.textContent = champion;
+    // Accédez au conteneur global pour les champions
+    const championsContainer = document.getElementById('championsContainer');
 
-      // Vérification si le champion est "Qiyana" et ajout d'une classe si nécessaire
-      if (champion === "Qiyana") {
-        listItem.classList.add('important-champion');
-      }
+    // Parcourez chaque champion dans 'datas'
+    data[1].datas.forEach(champion => {
+      const championDiv = document.createElement('div');
+      championDiv.className = 'champion-item';  // Ajout de la classe champion-item
 
-      championsList.appendChild(listItem);
-    });
+      const championHeader = document.createElement('div');
+      championHeader.className = 'list-header';
+      championHeader.textContent = `${champion.name} - Legendary Skins: ${champion.legendary_skin_count}`;
 
-    // Affichage de la liste des skins 1820 RP
-    const skinsList = document.getElementById('skinsList');
-    skinsList.innerHTML = ''; // Vidage de la liste
-    data.skins_1820_rp_list.forEach(skin => {
-      const listItem = document.createElement('li');
-      listItem.textContent = skin;
-      skinsList.appendChild(listItem);
+      const skinsList = document.createElement('ul');
+      champion.legendary_skins.forEach(skin => {
+        const skinItem = document.createElement('li');
+        skinItem.textContent = skin;
+        skinsList.appendChild(skinItem);
+      });
+
+      championDiv.appendChild(championHeader);
+      championDiv.appendChild(skinsList);
+
+      championsContainer.appendChild(championDiv);
     });
 
   })

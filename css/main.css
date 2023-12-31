@@ -45,19 +45,53 @@ body {
   transform: scale(1.1);
 }
 
-.container {
+.container-wrapper {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  max-width: 1200px;
+}
+
 .list-container {
-  flex: 1;
+  flex: 0 0 calc(50% - 20px);
   background-color: #dc3ce7;
   padding: 20px;
   border-radius: 15px;
+  margin: 10px;
+  box-sizing: border-box;
 }
 
+.champions-container {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px; /* Ajustez ceci en fonction de la largeur souhaitée */
+  margin: 0 auto;   /* Pour centrer le conteneur si vous utilisez une largeur maximale */
+  overflow-y: auto; /* Pour ajouter une barre de défilement verticale */
+  max-height: 70vh; /* Ajustez ceci en fonction de la hauteur souhaitée */
+}
+
+.champion-item {
+  flex: 0 0 calc(33.33% - 20px); 
+  background-color: #dc3ce7;
+  padding: 20px;
+  border-radius: 15px;
+  box-sizing: border-box;
+  text-align: center;
+  margin-bottom: 20px;
+  /* Si vous souhaitez ajouter de l'espace entre les éléments sur la même ligne */
+  max-height: 200px; /* Ajustez ceci en fonction de la hauteur souhaitée */
+  overflow: auto; /* Pour ajouter une barre de défilement si le contenu dépasse la hauteur */
+}
 .list-header {
   margin-top: 30px;
   font-size: 1em; /* Augmentez ou diminuez cette valeur selon vos préférences */

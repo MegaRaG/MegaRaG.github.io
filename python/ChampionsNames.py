@@ -25,7 +25,7 @@ def get_champion_names():
     champion_names = [clean_champion_name(champion.get('name', '')) for champion in champions_data.values()]
     return champion_names
 
-def write_to_file(champion_names, filename="champion_names.txt"):
+def write_to_file(champion_names, filename="./python/champion_names.txt"):
     with open(filename, 'w', encoding='utf-8') as file:
         for name in champion_names:
             file.write(f"{name}\n")

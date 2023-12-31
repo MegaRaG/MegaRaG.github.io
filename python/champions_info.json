@@ -1,0 +1,1004 @@
+[
+    {
+        "total_champions": 166,
+        "champions_without_1820_rp": 98
+    },
+    {
+        "datas": [
+            {
+                "name": "Aatrox",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Ahri",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Spirit Blossom Ahri",
+                    "Star Guardian Ahri"
+                ]
+            },
+            {
+                "name": "Akali",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Star Guardian Akali"
+                ]
+            },
+            {
+                "name": "Akshan",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Alistar",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Amumu",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Anivia",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Blackfrost Anivia"
+                ]
+            },
+            {
+                "name": "Annie",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Annie in Wonderland"
+                ]
+            },
+            {
+                "name": "Aphelios",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Ashe",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "High Noon Ashe",
+                    "PROJECT: Ashe"
+                ]
+            },
+            {
+                "name": "Aurelion-Sol",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Azir",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Bard",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "BelVeth",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Blitzcrank",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Space Groove Blitz & Crank"
+                ]
+            },
+            {
+                "name": "Brand",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Zombie Brand"
+                ]
+            },
+            {
+                "name": "Braum",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Briar",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Caitlyn",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Battle Academia Caitlyn",
+                    "Pulsefire Caitlyn"
+                ]
+            },
+            {
+                "name": "Camille",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Cassiopeia",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "ChoGath",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Battlecast Prime Cho'Gath",
+                    "Gentleman Cho'Gath"
+                ]
+            },
+            {
+                "name": "Corki",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Red Baron Corki",
+                    "Ice Toboggan Corki"
+                ]
+            },
+            {
+                "name": "Darius",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "God-King Darius",
+                    "Dunkmaster Darius"
+                ]
+            },
+            {
+                "name": "Diana",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Winterblessed Diana"
+                ]
+            },
+            {
+                "name": "Draven",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Dr-Mundo",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Corporate Mundo"
+                ]
+            },
+            {
+                "name": "Ekko",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "True Damage Ekko"
+                ]
+            },
+            {
+                "name": "Elise",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Evelynn",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Coven Evelynn"
+                ]
+            },
+            {
+                "name": "Ezreal",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Porcelain Protector Ezreal",
+                    "Battle Academia Ezreal"
+                ]
+            },
+            {
+                "name": "Fiddlesticks",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Fiora",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Fizz",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Galio",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Gatekeeper Galio"
+                ]
+            },
+            {
+                "name": "Gangplank",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Garen",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "God-King Garen"
+                ]
+            },
+            {
+                "name": "Gnar",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Gragas",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Graves",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Sentinel Graves"
+                ]
+            },
+            {
+                "name": "Gwen",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Hecarim",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Heimerdinger",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Dragon Trainer Heimerdinger",
+                    "Alien Invader Heimerdinger"
+                ]
+            },
+            {
+                "name": "Hwei",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Illaoi",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Irelia",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Mythmaker Irelia"
+                ]
+            },
+            {
+                "name": "Ivern",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Janna",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Forecast Janna"
+                ]
+            },
+            {
+                "name": "Jarvan-IV",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Jax",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Mecha Kingdoms Jax"
+                ]
+            },
+            {
+                "name": "Jayce",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Jhin",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Dark Cosmic Jhin"
+                ]
+            },
+            {
+                "name": "Jinx",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Star Guardian Jinx"
+                ]
+            },
+            {
+                "name": "KaiSa",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Star Guardian Kai'Sa"
+                ]
+            },
+            {
+                "name": "Kalista",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Karma",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Faerie Queen Karma"
+                ]
+            },
+            {
+                "name": "Karthus",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Kassadin",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Katarina",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Battle Queen Katarina"
+                ]
+            },
+            {
+                "name": "Kayle",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Aether Wing Kayle"
+                ]
+            },
+            {
+                "name": "Kayn",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "HEARTSTEEL Kayn",
+                    "Odyssey Kayn"
+                ]
+            },
+            {
+                "name": "Kennen",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "KhaZix",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Kindred",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Kled",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "KogMaw",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "KSante",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "LeBlanc",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Lee-Sin",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Storm Dragon Lee Sin",
+                    "God Fist Lee Sin"
+                ]
+            },
+            {
+                "name": "Leona",
+                "legendary_skin_count": 3,
+                "legendary_skins": [
+                    "High Noon Leona",
+                    "Solar Eclipse Leona",
+                    "Lunar Eclipse Leona"
+                ]
+            },
+            {
+                "name": "Lillia",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Lissandra",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Lucian",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "High Noon Lucian"
+                ]
+            },
+            {
+                "name": "Lulu",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Lux",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Dark Cosmic Lux",
+                    "Cosmic Lux"
+                ]
+            },
+            {
+                "name": "Malphite",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Malzahar",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Maokai",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Master-Yi",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Inkshadow Master Yi",
+                    "PROJECT: Yi"
+                ]
+            },
+            {
+                "name": "Milio",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Miss-Fortune",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Battle Bunny Miss Fortune"
+                ]
+            },
+            {
+                "name": "Wukong",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Mordekaiser",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "PROJECT: Mordekaiser"
+                ]
+            },
+            {
+                "name": "Morgana",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Coven Morgana"
+                ]
+            },
+            {
+                "name": "Naafiri",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Nami",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Coven Nami"
+                ]
+            },
+            {
+                "name": "Nasus",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Infernal Nasus"
+                ]
+            },
+            {
+                "name": "Nautilus",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Neeko",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Nidalee",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Nilah",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Nocturne",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Eternum Nocturne"
+                ]
+            },
+            {
+                "name": "Nunu--Willump",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Nunu & Willump Bot"
+                ]
+            },
+            {
+                "name": "Olaf",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Brolaf"
+                ]
+            },
+            {
+                "name": "Orianna",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Ornn",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Pantheon",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Poppy",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Pyke",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Empyrean Pyke",
+                    "PROJECT: Pyke"
+                ]
+            },
+            {
+                "name": "Qiyana",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Quinn",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Rakan",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Redeemed Star Guardian Rakan",
+                    "Star Guardian Rakan"
+                ]
+            },
+            {
+                "name": "Rammus",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "RekSai",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Rell",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Renata-Glasc",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Renekton",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "PROJECT: Renekton"
+                ]
+            },
+            {
+                "name": "Rengar",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Riven",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Broken Covenant Riven",
+                    "Dawnbringer Riven"
+                ]
+            },
+            {
+                "name": "Rumble",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Super Galaxy Rumble"
+                ]
+            },
+            {
+                "name": "Ryze",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Samira",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Sejuani",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Senna",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Winterblessed Senna",
+                    "High Noon Senna"
+                ]
+            },
+            {
+                "name": "Seraphine",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Sett",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Spirit Blossom Sett"
+                ]
+            },
+            {
+                "name": "Shaco",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Shen",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Shyvana",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Singed",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Sion",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Mecha Zero Sion"
+                ]
+            },
+            {
+                "name": "Sivir",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Solar Eclipse Sivir"
+                ]
+            },
+            {
+                "name": "Skarner",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Battlecast Alpha Skarner"
+                ]
+            },
+            {
+                "name": "Sona",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "PsyOps Sona"
+                ]
+            },
+            {
+                "name": "Soraka",
+                "legendary_skin_count": 3,
+                "legendary_skins": [
+                    "Immortal Journey Soraka",
+                    "Dawnbringer Soraka",
+                    "Nightbringer Soraka"
+                ]
+            },
+            {
+                "name": "Swain",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Sylas",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Syndra",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Tahm-Kench",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Taliyah",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Talon",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Taric",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Teemo",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Space Groove Teemo",
+                    "Omega Squad Teemo"
+                ]
+            },
+            {
+                "name": "Thresh",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Spirit Blossom Thresh",
+                    "Dark Star Thresh"
+                ]
+            },
+            {
+                "name": "Tristana",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Dragon Trainer Tristana",
+                    "Firefighter Tristana"
+                ]
+            },
+            {
+                "name": "Trundle",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Tryndamere",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Demonblade Tryndamere"
+                ]
+            },
+            {
+                "name": "Twisted-Fate",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "The Magnificent Twisted Fate"
+                ]
+            },
+            {
+                "name": "Twitch",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Udyr",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Urgot",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Varus",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Vayne",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Sentinel Vayne",
+                    "PROJECT: Vayne"
+                ]
+            },
+            {
+                "name": "Veigar",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Final Boss Veigar"
+                ]
+            },
+            {
+                "name": "VelKoz",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Vex",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Vi",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Viego",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Soul Fighter Viego"
+                ]
+            },
+            {
+                "name": "Viktor",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Vladimir",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Blood Lord Vladimir"
+                ]
+            },
+            {
+                "name": "Volibear",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Warwick",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Xayah",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Redeemed Star Guardian Xayah",
+                    "Star Guardian Xayah"
+                ]
+            },
+            {
+                "name": "Xerath",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Xin-Zhao",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Yasuo",
+                "legendary_skin_count": 3,
+                "legendary_skins": [
+                    "Truth Dragon Yasuo",
+                    "Dream Dragon Yasuo",
+                    "Nightbringer Yasuo"
+                ]
+            },
+            {
+                "name": "Yone",
+                "legendary_skin_count": 1,
+                "legendary_skins": [
+                    "Dawnbringer Yone"
+                ]
+            },
+            {
+                "name": "Yorick",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Yuumi",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Zac",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Zed",
+                "legendary_skin_count": 2,
+                "legendary_skins": [
+                    "Debonair Zed",
+                    "Galaxy Slayer Zed"
+                ]
+            },
+            {
+                "name": "Zeri",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Ziggs",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Zilean",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Zoe",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            },
+            {
+                "name": "Zyra",
+                "legendary_skin_count": 0,
+                "legendary_skins": []
+            }
+        ]
+    }
+]
