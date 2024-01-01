@@ -81,16 +81,14 @@ body {
 }
 
 .champion-item {
-  flex: 0 0 calc(33.33% - 20px); 
+  flex: 0 0 calc(33.33% - 40px);  /* Garde le même comportement flex, mais avec une largeur fixe */
+  min-width: 300px;  /* Une taille minimale pour chaque item, vous pouvez ajuster cette valeur selon vos besoins */
   background-color: #dc3ce7;
   padding: 20px;
   border-radius: 15px;
   box-sizing: border-box;
   text-align: center;
   margin-bottom: 20px;
-  /* Si vous souhaitez ajouter de l'espace entre les éléments sur la même ligne */
-  max-height: 200px; /* Ajustez ceci en fonction de la hauteur souhaitée */
-  overflow: auto; /* Pour ajouter une barre de défilement si le contenu dépasse la hauteur */
 }
 .list-header {
   margin-top: 30px;
@@ -115,4 +113,16 @@ ul {
   padding: 5px 10px;           /* Espacement autour du texte */
   border-radius: 5px;          /* Coins arrondis pour un look agréable */
   margin: 2px 0;               /* Petit espacement entre les éléments de la liste */
+}
+.filter-container {
+  width: 100%;  /* Pour occuper toute la largeur de son conteneur parent */
+  box-sizing: border-box;  /* Pour inclure le padding et la bordure dans la largeur totale */
+  padding: 10px;  /* Ajustez cela selon vos préférences pour le padding intérieur */
+}
+
+#filterInput {
+  width: 100%;  /* Pour occuper toute la largeur de .filter-container */
+  padding: 8px;  /* Ajustez cela selon vos préférences pour le padding intérieur du champ d'entrée */
+  border-radius: 5px;  /* Pour arrondir les coins du champ d'entrée */
+  border: 1px solid #ccc;  /* Bordure autour du champ d'entrée */
 }
