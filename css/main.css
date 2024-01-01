@@ -126,3 +126,20 @@ ul {
   border-radius: 5px;  /* Pour arrondir les coins du champ d'entrée */
   border: 1px solid #ccc;  /* Bordure autour du champ d'entrée */
 }
+
+/* Style de base pour le footer */
+.footer-container {
+  background-color: #333; /* Couleur de fond */
+  color: #fff; /* Couleur du texte */
+  padding: 20px; /* Espacement intérieur */
+  text-align: center; /* Centrage du texte */
+  position: relative; /* Position relative pour pouvoir positionner des éléments à l'intérieur */
+  bottom: 0; /* Fixer le footer au bas de la page */
+}
+
+/* Style pour les liens dans le footer si nécessaire */
+.footer-container a {
+  color: #fff; /* Couleur du texte des liens */
+  text-decoration: none; /* Suppression du soulignement des liens */
+  transition: color 0.3s ease; /* Transition pour le changement de couleur lors du survol */
+}
